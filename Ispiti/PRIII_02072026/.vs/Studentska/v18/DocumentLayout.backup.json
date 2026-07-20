@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asad\\Desktop\\Ispit0207\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D087865-D4CE-4855-B643-9B7B48F9BB12}|Studentska.WinApp\\Studentska.WinApp.csproj|c:\\users\\asad\\desktop\\ispit0207\\studentska.winapp\\ispitib230xxx\\frmpretragaib230xxx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D087865-D4CE-4855-B643-9B7B48F9BB12}|Studentska.WinApp\\Studentska.WinApp.csproj|solutionrelative:studentska.winapp\\ispitib230xxx\\frmpretragaib230xxx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D087865-D4CE-4855-B643-9B7B48F9BB12}|Studentska.WinApp\\Studentska.WinApp.csproj|c:\\users\\asad\\desktop\\ispit0207\\studentska.winapp\\ispitib230xxx\\frmpretragaib230xxx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D087865-D4CE-4855-B643-9B7B48F9BB12}|Studentska.WinApp\\Studentska.WinApp.csproj|solutionrelative:studentska.winapp\\ispitib230xxx\\frmpretragaib230xxx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D087865-D4CE-4855-B643-9B7B48F9BB12}|Studentska.WinApp\\Studentska.WinApp.csproj|c:\\users\\asad\\desktop\\ispit0207\\studentska.winapp\\ispitib230xxx\\frmprijavaaddeditib230xxx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D087865-D4CE-4855-B643-9B7B48F9BB12}|Studentska.WinApp\\Studentska.WinApp.csproj|solutionrelative:studentska.winapp\\ispitib230xxx\\frmprijavaaddeditib230xxx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D087865-D4CE-4855-B643-9B7B48F9BB12}|Studentska.WinApp\\Studentska.WinApp.csproj|c:\\users\\asad\\desktop\\ispit0207\\studentska.winapp\\ispitib230xxx\\frmprijavaaddeditib230xxx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D087865-D4CE-4855-B643-9B7B48F9BB12}|Studentska.WinApp\\Studentska.WinApp.csproj|solutionrelative:studentska.winapp\\ispitib230xxx\\frmprijavaaddeditib230xxx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C8D759-26B3-4396-9F8B-16546830EFEF}|Studentska.Servis\\Studentska.Servis.csproj|c:\\users\\asad\\desktop\\ispit0207\\studentska.servis\\ispitib230xxx\\studentiprojektiib230xxxservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C8D759-26B3-4396-9F8B-16546830EFEF}|Studentska.Servis\\Studentska.Servis.csproj|solutionrelative:studentska.servis\\ispitib230xxx\\studentiprojektiib230xxxservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9C280F-2AAD-4784-896E-610CE331CE44}|Studentska.Data\\Studentska.Data.csproj|c:\\users\\asad\\desktop\\ispit0207\\studentska.data\\ispitib230xxx\\projektiib230xxx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9C280F-2AAD-4784-896E-610CE331CE44}|Studentska.Data\\Studentska.Data.csproj|solutionrelative:studentska.data\\ispitib230xxx\\projektiib230xxx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjektiIB230XXX.cs",
+              "DocumentMoniker": "C:\\Users\\Asad\\Desktop\\Ispit0207\\Studentska.Data\\IspitIB230XXX\\ProjektiIB230XXX.cs",
+              "RelativeDocumentMoniker": "Studentska.Data\\IspitIB230XXX\\ProjektiIB230XXX.cs",
+              "ToolTip": "C:\\Users\\Asad\\Desktop\\Ispit0207\\Studentska.Data\\IspitIB230XXX\\ProjektiIB230XXX.cs",
+              "RelativeToolTip": "Studentska.Data\\IspitIB230XXX\\ProjektiIB230XXX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T15:30:12.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmPrijavaAddEditIB230XXX.cs",
+              "DocumentMoniker": "C:\\Users\\Asad\\Desktop\\Ispit0207\\Studentska.WinApp\\IspitIB230XXX\\frmPrijavaAddEditIB230XXX.cs",
+              "RelativeDocumentMoniker": "Studentska.WinApp\\IspitIB230XXX\\frmPrijavaAddEditIB230XXX.cs",
+              "ToolTip": "C:\\Users\\Asad\\Desktop\\Ispit0207\\Studentska.WinApp\\IspitIB230XXX\\frmPrijavaAddEditIB230XXX.cs",
+              "RelativeToolTip": "Studentska.WinApp\\IspitIB230XXX\\frmPrijavaAddEditIB230XXX.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAASwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T14:03:53.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPrijavaAddEditIB230XXX.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asad\\Desktop\\Ispit0207\\Studentska.WinApp\\IspitIB230XXX\\frmPrijavaAddEditIB230XXX.cs",
+              "RelativeDocumentMoniker": "Studentska.WinApp\\IspitIB230XXX\\frmPrijavaAddEditIB230XXX.cs",
+              "ToolTip": "C:\\Users\\Asad\\Desktop\\Ispit0207\\Studentska.WinApp\\IspitIB230XXX\\frmPrijavaAddEditIB230XXX.cs [Design]",
+              "RelativeToolTip": "Studentska.WinApp\\IspitIB230XXX\\frmPrijavaAddEditIB230XXX.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T13:59:45.769Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentiProjektiIB230XXXServis.cs",
+              "DocumentMoniker": "C:\\Users\\Asad\\Desktop\\Ispit0207\\Studentska.Servis\\IspitIB230XXX\\StudentiProjektiIB230XXXServis.cs",
+              "RelativeDocumentMoniker": "Studentska.Servis\\IspitIB230XXX\\StudentiProjektiIB230XXXServis.cs",
+              "ToolTip": "C:\\Users\\Asad\\Desktop\\Ispit0207\\Studentska.Servis\\IspitIB230XXX\\StudentiProjektiIB230XXXServis.cs",
+              "RelativeToolTip": "Studentska.Servis\\IspitIB230XXX\\StudentiProjektiIB230XXXServis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T13:17:16.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPretragaIB230XXX.cs",
+              "DocumentMoniker": "C:\\Users\\Asad\\Desktop\\Ispit0207\\Studentska.WinApp\\IspitIB230XXX\\frmPretragaIB230XXX.cs",
+              "RelativeDocumentMoniker": "Studentska.WinApp\\IspitIB230XXX\\frmPretragaIB230XXX.cs",
+              "ToolTip": "C:\\Users\\Asad\\Desktop\\Ispit0207\\Studentska.WinApp\\IspitIB230XXX\\frmPretragaIB230XXX.cs",
+              "RelativeToolTip": "Studentska.WinApp\\IspitIB230XXX\\frmPretragaIB230XXX.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAtwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T13:01:04.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPretragaIB230XXX.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asad\\Desktop\\Ispit0207\\Studentska.WinApp\\IspitIB230XXX\\frmPretragaIB230XXX.cs",
+              "RelativeDocumentMoniker": "Studentska.WinApp\\IspitIB230XXX\\frmPretragaIB230XXX.cs",
+              "ToolTip": "C:\\Users\\Asad\\Desktop\\Ispit0207\\Studentska.WinApp\\IspitIB230XXX\\frmPretragaIB230XXX.cs [Design]",
+              "RelativeToolTip": "Studentska.WinApp\\IspitIB230XXX\\frmPretragaIB230XXX.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T12:56:34.431Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
