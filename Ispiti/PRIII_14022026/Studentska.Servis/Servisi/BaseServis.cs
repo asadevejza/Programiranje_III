@@ -14,10 +14,20 @@
             _dbContext.Set<T>().Add(obj);
             _dbContext.SaveChanges();
         }
-
+        public void Obrisi(T obj)
+        {
+            _dbContext.Set<T>().Remove(obj);
+            _dbContext.SaveChanges();
+        }
         public T? GetById(int id)
         {
             return _dbContext.Set<T>().Find(id);
+        }
+        public void Update(T obj)
+        {
+            _dbContext.ChangeTracker.Clear();
+            _dbContext.Set<T>().Update(obj);
+            _dbContext.SaveChanges();
         }
     }
 }

@@ -8,7 +8,11 @@ using System.Threading.Tasks;
 
 namespace Studentska.Servis.IspitIB230XXX
 {
-    public class KompanijeIB230XXXServis:BaseServis<KompanijeIB230XXX>
+    public class KompanijeIB230XXXServis : BaseServis<KompanijeIB230XXX>
     {
+        public List<KompanijeIB230XXX> getAktivne()
+        {
+            return _dbContext.KompanijeIB230XXX.Where(x => x.Aktivna == true).ToList();
+        }
     }
 }

@@ -1,7 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
 using Studentska.Data.Entiteti;
-
+using Studentska.Data.IspitIB230XXX;
+using Studentska.Servis.IspitIB230XXX;
 using System.Configuration;
 
 namespace Studentska.Servis
@@ -25,6 +26,9 @@ namespace Studentska.Servis
         public DbSet<Student> Studenti { get; set; }
         public DbSet<Predmet> Predmeti { get; set; }
         public DbSet<AkademskaGodina> AkademskeGodine { get; set; }
+        public DbSet<StatusIB230XXX> StatusIB230XXX { get; set; }
+        public DbSet<StudentiPraksaIB230XXX> StudentiPraksaIB230XXX { get; set; }
+        public DbSet<KompanijeIB230XXX> KompanijeIB230XXX { get; set; }
 
     }
 }

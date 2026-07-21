@@ -8,7 +8,12 @@ using System.Threading.Tasks;
 
 namespace Studentska.Servis.IspitIB230XXX
 {
-    public class StatusIB230XXXServis:BaseServis<StatusIB230XXX>
+    public class StatusIB230XXXServis : BaseServis<StatusIB230XXX>
     {
+        public List<StatusIB230XXX> getAllStatuse()
+        {
+
+            return _dbContext.StatusIB230XXX.ToList();
+        }
     }
 }
